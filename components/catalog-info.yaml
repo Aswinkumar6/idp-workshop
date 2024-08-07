@@ -23,9 +23,9 @@ spec:
   type: service
   owner: teamA
   lifecycle: experimental
-#  system: Demo
-#  dependsOn:
-#    - component:default/fill-in-your-name-service
+  system: Demo
+  dependsOn:
+    - component:default/aswin-service
 #  consumesApis:
 #    - user-api
 #  providesApis:
